@@ -20,24 +20,24 @@
   <nav class="navbar navbar-dark bg-danger">
   <ul class="nav nav-tabs">
     <li class="nav-item">
-      <a class="nav-link active" aria-current="page" href="index.html">HOME</a>
+      <a class="nav-link active" aria-current="page" href="index.php">HOME</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="register.html">REGITER TO LOGIN</a>
+      <a class="nav-link" href="register.php">REGITER TO LOGIN</a>
     </li>
     <li class="nav-item">
-      <a class="nav-link" href="gallery.html">GALLERY</a>
+      <a class="nav-link" href="gallery.php">GALLERY</a>
     </li>
     <li class="nav-item">
-        <a class="nav-link" href="about.html">ABOUT US</a>
+        <a class="nav-link" href="about.php">ABOUT US</a>
       </li>
     <li class="nav-item dropdown">
         <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-bs-toggle="dropdown" aria-expanded="false">
           COLLECTIONS IN THE STORE
         </a>
         <ul class="dropdown-menu" aria-labelledby="navbarDropdown">
-          <li><a class="dropdown-item" href="classic.html">CLASSIC</a></li>
-          <li><a class="dropdown-item" href="short.html">SHORT STORIES FOR KID</a></li>
+          <li><a class="dropdown-item" href="classic.php">CLASSIC</a></li>
+          <li><a class="dropdown-item" href="short.php">SHORT STORIES FOR KID</a></li>
           <li><a class="dropdown-item" href="#">NOVELS</a></li>
           <li><a class="dropdown-item" href="#">POETRY</a></li>
       </li>
